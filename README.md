@@ -1,3 +1,5 @@
+Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.(From the Go web site at golang.org)
+
 # gopl.io
 
 Example programs & Solutions for The Go Programming Language. <http://www.gopl.io>  
