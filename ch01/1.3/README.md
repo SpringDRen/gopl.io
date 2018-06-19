@@ -25,7 +25,7 @@
 1. `ReadFile` : `ioutil.ReadFile` reads the entire contents of a named file
 2. `strings.Split` : splits a string into a slice of substrings
 
-## [ex1.4](ex1.4/mian.go)
+## [ex1.4](ex1.4/main.go)
 
 1. `struct`
 2. `bytes.Buffer`
