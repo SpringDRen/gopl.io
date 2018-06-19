@@ -57,7 +57,7 @@
 1. `ReadFile` : `ioutil.ReadFile` 读取指定文件的全部内容
 2. `strings.Split` : 把字符串分割成子串的切片
 
-## [ex1.4](ex1.4/mian.go)
+## [ex1.4](ex1.4/main.go)
 
 1. `struct` : 结构体
 2. `bytes.Buffer` : 高效处理字符串拼接
